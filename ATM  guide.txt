@@ -1,0 +1,25 @@
+This project is a C# ATM command line application which uses Obect Orientation.
+
+The app allows users to deposit and withdraw fund into and out of their bank
+accounts aswell as the ability to transfer funds to other users.
+
+Below are some details of two existing user objects within the app.
+
+User info:
+
+User1 Id = A001
+
+User1 Name = Daniel
+
+User1 Password = password
+
+User1 Balance = 100
+
+
+User2 Id = A002
+
+User2 Name = Piper
+
+User2 Password = password2
+
+User2 Balance = 200
